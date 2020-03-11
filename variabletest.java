@@ -24,6 +24,7 @@ public class variabletest
         
         System.out.println(t);
         d = 29;
+        /*this is a comment for the commet*/
     }
 
     
